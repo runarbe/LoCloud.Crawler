@@ -1,0 +1,1 @@
+C:\OSGeo4W\bin\php.exe -f C:\GitHub\Avinet.LoCloud.Crawler\crawlerTask.php

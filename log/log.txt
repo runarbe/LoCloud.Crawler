@@ -1,0 +1,1046 @@
+2015.02.01 23:24:03	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&prevID=80&oprevID=25','',' Broken silver coin of Harun Broken silver coin  a 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD.  Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Mon','Wiltshire Museum : GalleriesBroken silver coin of Harun','','','','','../uploads/images/115/l_1haroun.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Broken silver coin of Harun Broken silver coin Â a \'dirhem\' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Monkton Deverill, Wiltshire. They were often broken to make more manageable coins. Harun Rashid features in the epic story, the Thousand and One Nights, which includes stories of Sinbad, Ali Baba and the Forty Thieves and Aladdin. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:03	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:06	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&prevID=87&oprevID=25','',' Pen-annular brooch Late Iron Age pen-annular (means 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of brooch originated in the Iron Age and continues in use today. 
+ 
+','Wiltshire Museum : GalleriesPen-annular brooch','','','','','../uploads/images/186/l_17iron_age_penannular_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Pen-annular brooch Late Iron Age pen-annular (means \'nearly a ring\')brooch with coiled terminals found at Marlborough. This style of brooch originated in the Iron Age and continues in use today. \r\n \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:06	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:12	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=89&prevID=96&oprevID=17','',' Britton 'Celtic' Cabinet The first object to be acquired for the museums collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine 'Celtic' cabinet veneere','Wiltshire Museum : GalleriesBritton 'Celtic' Cabinet','','','','','../uploads/images/89/l_2britton_cabinet.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton \'Celtic\' Cabinet The first object to be acquired for the museumÂs collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine \'Celtic\' cabinet veneered in elm and maple. Eleven of its panels are glass fronted to display watercolour drawings, ten of which survive today. All the watercolours are of megalithic monuments in Wiltshire, Wales and the West of England. Most are related to pencil drawings by Underwood, Prout, Hyett and Cattermole. Integral to the design of the cabinet are three models of Stonehenge and Avebury made by Henry Browne. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:12	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Celtic' Cabinet The first object to be acquired for the museums collection was' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:14	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=104&prevID=78&oprevID=12','',' Britton's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a window in St Michael's Gallery, Fonthill House, from John Britton's notes, prints and sketches of the house 1823.','Wiltshire Museum : GalleriesBritton's engraving of St Michael's Gallery, Fonthill House','','','','','../uploads/images/104/l_1britton_fonthill.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton\'s engraving of St Michael\'s Gallery, Fonthill House Coloured engraving of a window in St Michael\'s Gallery, Fonthill House, from John Britton\'s notes, prints and sketches of the house 1823. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:14	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a wind' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:15	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=114&prevID=78&oprevID=12','',' Trotter Painting of Bishop Audley's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century.','Wiltshire Museum : GalleriesTrotter Painting of Bishop Audley's Chapel','','','','','../uploads/images/114/l_11trotter.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Trotter Painting of Bishop Audley\'s Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:15	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas T' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:20	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=289&prevID=112&oprevID=23','',' Devizes ARP Wardens. Devizes ARP Wardens.  
+Top row, 5th from the left is Edward Harper, Ambulance Driver. 
+ 
+The Museum has been given his uniform, displayed in the 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : GalleriesDevizes ARP Wardens.','','','','','../uploads/images/289/l_ARP warden uniform2.jpg','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Devizes ARP Wardens. Devizes ARP Wardens. \r\nTop row, 5th from the left is Edward Harper, Ambulance Driver. \r\n \r\nThe Museum has been given his uniform, displayed in the \'On the Home Front: Wiltshire in WW2\' exhibition. \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:20	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : Galleri' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:21	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&prevID=114&oprevID=24','',' Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding's favourite object in the museum, and he explains how he has made a replica. 
+ 
+</embed>','Wiltshire Museum : GalleriesStonehenge Dagger video','','','','','../uploads/images/287/l_s-spacer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding\'s favourite object in the museum, and he explains how he has made a replica. \r\n \r\n</embed> &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:21	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's favourite object in the museum, and he explains how he has made a replica. 
+ ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:21	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&prevID=90&oprevID=25','',' Roundway G8 Flint Arrowhead Early Bronze Age 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III.  It was placed in front of the head in the grave.','Wiltshire Museum : GalleriesRoundway G8 Flint Arrowhead','','','','','../uploads/images/72/l_1roundwayG8_arrowhead.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Flint Arrowhead Early Bronze Age \'Beaker phase\' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III. It was placed in front of the head in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:21	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:21	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&prevID=90&oprevID=25','',' Roundway G8 Archer's Bracer Stone archer's bracer found by the left wrist of the burial.  People in Beaker burials are often buried with archery equipment in the grave.','Wiltshire Museum : GalleriesRoundway G8 Archer's Bracer','','','','','../uploads/images/75/l_4archers_bracer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Archer\'s Bracer Stone archer\'s bracer found by the left wrist of the burial. People in Beaker burials are often buried with archery equipment in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:21	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Bracer Stone archer's bracer found by the left wrist of the burial.  People in' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:23	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=77&prevID=89&oprevID=9','',' William Cunnington portrait Portrait of the pioneer archaeologist William Cunnington I (1754 to 1810) by Samuel Woodforde, 1808.  Cunnington was told by his doctors to 'ride out or die' and so he took up archaeology, in partnership with with Sir Ric','Wiltshire Museum : GalleriesWilliam Cunnington portrait','','','','','../uploads/images/77/l_6cunnington.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links William Cunnington portrait Portrait of the pioneer archaeologist William Cunnington I (1754 to 1810) by Samuel Woodforde, 1808. Cunnington was told by his doctors to \'ride out or die\' and so he took up archaeology, in partnership with with Sir Richard Colt Hoare of Stourhead House. Between them they attempted the excavation of 465 Bronze Age barrows in Wiltshire and neighbouring counties. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:23	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ride out or die' and so he took up archaeology, in partnership with with Sir Ric' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:24	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&prevID=80&oprevID=25','',' Broken silver coin of Harun Broken silver coin  a 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD.  Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Mon','Wiltshire Museum : GalleriesBroken silver coin of Harun','','','','','../uploads/images/115/l_1haroun.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Broken silver coin of Harun Broken silver coin Â a \'dirhem\' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Monkton Deverill, Wiltshire. They were often broken to make more manageable coins. Harun Rashid features in the epic story, the Thousand and One Nights, which includes stories of Sinbad, Ali Baba and the Forty Thieves and Aladdin. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:24	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:29	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&prevID=87&oprevID=25','',' Pen-annular brooch Late Iron Age pen-annular (means 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of brooch originated in the Iron Age and continues in use today. 
+ 
+','Wiltshire Museum : GalleriesPen-annular brooch','','','','','../uploads/images/186/l_17iron_age_penannular_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Pen-annular brooch Late Iron Age pen-annular (means \'nearly a ring\')brooch with coiled terminals found at Marlborough. This style of brooch originated in the Iron Age and continues in use today. \r\n \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:29	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:35	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&prevID=94&oprevID=25','',' Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch','','','','','../uploads/images/254/l_66square_headed_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the \'Dark Ages\' after Roman rule had collapsed and the Saxons were becoming established. It might have been worn as a cloak-clasp or just as a piece of jewellery. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:35	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch',''' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:36	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=89&prevID=96&oprevID=17','',' Britton 'Celtic' Cabinet The first object to be acquired for the museums collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine 'Celtic' cabinet veneere','Wiltshire Museum : GalleriesBritton 'Celtic' Cabinet','','','','','../uploads/images/89/l_2britton_cabinet.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton \'Celtic\' Cabinet The first object to be acquired for the museumÂs collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine \'Celtic\' cabinet veneered in elm and maple. Eleven of its panels are glass fronted to display watercolour drawings, ten of which survive today. All the watercolours are of megalithic monuments in Wiltshire, Wales and the West of England. Most are related to pencil drawings by Underwood, Prout, Hyett and Cattermole. Integral to the design of the cabinet are three models of Stonehenge and Avebury made by Henry Browne. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:36	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Celtic' Cabinet The first object to be acquired for the museums collection was' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:37	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=104&prevID=78&oprevID=12','',' Britton's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a window in St Michael's Gallery, Fonthill House, from John Britton's notes, prints and sketches of the house 1823.','Wiltshire Museum : GalleriesBritton's engraving of St Michael's Gallery, Fonthill House','','','','','../uploads/images/104/l_1britton_fonthill.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton\'s engraving of St Michael\'s Gallery, Fonthill House Coloured engraving of a window in St Michael\'s Gallery, Fonthill House, from John Britton\'s notes, prints and sketches of the house 1823. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:37	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a wind' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:38	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=105&prevID=78&oprevID=12','',' Jackson's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson.','Wiltshire Museum : GalleriesJackson's watercolour of the Hungerford Chapel','','','','','../uploads/images/105/l_2jackson_church_interior.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Jackson\'s watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:38	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at F' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:39	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=114&prevID=78&oprevID=12','',' Trotter Painting of Bishop Audley's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century.','Wiltshire Museum : GalleriesTrotter Painting of Bishop Audley's Chapel','','','','','../uploads/images/114/l_11trotter.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Trotter Painting of Bishop Audley\'s Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:39	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas T' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:43	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=289&prevID=112&oprevID=23','',' Devizes ARP Wardens. Devizes ARP Wardens.  
+Top row, 5th from the left is Edward Harper, Ambulance Driver. 
+ 
+The Museum has been given his uniform, displayed in the 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : GalleriesDevizes ARP Wardens.','','','','','../uploads/images/289/l_ARP warden uniform2.jpg','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Devizes ARP Wardens. Devizes ARP Wardens. \r\nTop row, 5th from the left is Edward Harper, Ambulance Driver. \r\n \r\nThe Museum has been given his uniform, displayed in the \'On the Home Front: Wiltshire in WW2\' exhibition. \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:43	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : Galleri' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:44	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&prevID=114&oprevID=24','',' Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding's favourite object in the museum, and he explains how he has made a replica. 
+ 
+</embed>','Wiltshire Museum : GalleriesStonehenge Dagger video','','','','','../uploads/images/287/l_s-spacer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding\'s favourite object in the museum, and he explains how he has made a replica. \r\n \r\n</embed> &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:44	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's favourite object in the museum, and he explains how he has made a replica. 
+ ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:44	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&prevID=90&oprevID=25','',' Roundway G8 Flint Arrowhead Early Bronze Age 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III.  It was placed in front of the head in the grave.','Wiltshire Museum : GalleriesRoundway G8 Flint Arrowhead','','','','','../uploads/images/72/l_1roundwayG8_arrowhead.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Flint Arrowhead Early Bronze Age \'Beaker phase\' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III. It was placed in front of the head in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:44	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:24:44	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&prevID=90&oprevID=25','',' Roundway G8 Archer's Bracer Stone archer's bracer found by the left wrist of the burial.  People in Beaker burials are often buried with archery equipment in the grave.','Wiltshire Museum : GalleriesRoundway G8 Archer's Bracer','','','','','../uploads/images/75/l_4archers_bracer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Archer\'s Bracer Stone archer\'s bracer found by the left wrist of the burial. People in Beaker burials are often buried with archery equipment in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:24:44	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Bracer Stone archer's bracer found by the left wrist of the burial.  People in' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:10	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=77&prevID=89&oprevID=9','',' William Cunnington portrait Portrait of the pioneer archaeologist William Cunnington I (1754 to 1810) by Samuel Woodforde, 1808.  Cunnington was told by his doctors to 'ride out or die' and so he took up archaeology, in partnership with with Sir Ric','Wiltshire Museum : GalleriesWilliam Cunnington portrait','','','','','../uploads/images/77/l_6cunnington.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links William Cunnington portrait Portrait of the pioneer archaeologist William Cunnington I (1754 to 1810) by Samuel Woodforde, 1808. Cunnington was told by his doctors to \'ride out or die\' and so he took up archaeology, in partnership with with Sir Richard Colt Hoare of Stourhead House. Between them they attempted the excavation of 465 Bronze Age barrows in Wiltshire and neighbouring counties. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:10	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ride out or die' and so he took up archaeology, in partnership with with Sir Ric' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:19	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&prevID=87&oprevID=25','',' Pen-annular brooch Late Iron Age pen-annular (means 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of brooch originated in the Iron Age and continues in use today. 
+ 
+','Wiltshire Museum : GalleriesPen-annular brooch','','','','','../uploads/images/186/l_17iron_age_penannular_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Pen-annular brooch Late Iron Age pen-annular (means \'nearly a ring\')brooch with coiled terminals found at Marlborough. This style of brooch originated in the Iron Age and continues in use today. \r\n \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:19	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:26	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&prevID=94&oprevID=25','',' Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch','','','','','../uploads/images/254/l_66square_headed_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the \'Dark Ages\' after Roman rule had collapsed and the Saxons were becoming established. It might have been worn as a cloak-clasp or just as a piece of jewellery. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:26	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch',''' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:26	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=89&prevID=96&oprevID=17','',' Britton 'Celtic' Cabinet The first object to be acquired for the museums collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine 'Celtic' cabinet veneere','Wiltshire Museum : GalleriesBritton 'Celtic' Cabinet','','','','','../uploads/images/89/l_2britton_cabinet.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton \'Celtic\' Cabinet The first object to be acquired for the museumÂs collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine \'Celtic\' cabinet veneered in elm and maple. Eleven of its panels are glass fronted to display watercolour drawings, ten of which survive today. All the watercolours are of megalithic monuments in Wiltshire, Wales and the West of England. Most are related to pencil drawings by Underwood, Prout, Hyett and Cattermole. Integral to the design of the cabinet are three models of Stonehenge and Avebury made by Henry Browne. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:26	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Celtic' Cabinet The first object to be acquired for the museums collection was' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:28	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=104&prevID=78&oprevID=12','',' Britton's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a window in St Michael's Gallery, Fonthill House, from John Britton's notes, prints and sketches of the house 1823.','Wiltshire Museum : GalleriesBritton's engraving of St Michael's Gallery, Fonthill House','','','','','../uploads/images/104/l_1britton_fonthill.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton\'s engraving of St Michael\'s Gallery, Fonthill House Coloured engraving of a window in St Michael\'s Gallery, Fonthill House, from John Britton\'s notes, prints and sketches of the house 1823. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:28	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a wind' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:28	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=105&prevID=78&oprevID=12','',' Jackson's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson.','Wiltshire Museum : GalleriesJackson's watercolour of the Hungerford Chapel','','','','','../uploads/images/105/l_2jackson_church_interior.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Jackson\'s watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:28	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at F' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:29	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=114&prevID=78&oprevID=12','',' Trotter Painting of Bishop Audley's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century.','Wiltshire Museum : GalleriesTrotter Painting of Bishop Audley's Chapel','','','','','../uploads/images/114/l_11trotter.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Trotter Painting of Bishop Audley\'s Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:29	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas T' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:34	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=289&prevID=112&oprevID=23','',' Devizes ARP Wardens. Devizes ARP Wardens.  
+Top row, 5th from the left is Edward Harper, Ambulance Driver. 
+ 
+The Museum has been given his uniform, displayed in the 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : GalleriesDevizes ARP Wardens.','','','','','../uploads/images/289/l_ARP warden uniform2.jpg','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Devizes ARP Wardens. Devizes ARP Wardens. \r\nTop row, 5th from the left is Edward Harper, Ambulance Driver. \r\n \r\nThe Museum has been given his uniform, displayed in the \'On the Home Front: Wiltshire in WW2\' exhibition. \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:34	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : Galleri' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:35	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&prevID=114&oprevID=24','',' Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding's favourite object in the museum, and he explains how he has made a replica. 
+ 
+</embed>','Wiltshire Museum : GalleriesStonehenge Dagger video','','','','','../uploads/images/287/l_s-spacer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding\'s favourite object in the museum, and he explains how he has made a replica. \r\n \r\n</embed> &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:35	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's favourite object in the museum, and he explains how he has made a replica. 
+ ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:35	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&prevID=90&oprevID=25','',' Roundway G8 Flint Arrowhead Early Bronze Age 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III.  It was placed in front of the head in the grave.','Wiltshire Museum : GalleriesRoundway G8 Flint Arrowhead','','','','','../uploads/images/72/l_1roundwayG8_arrowhead.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Flint Arrowhead Early Bronze Age \'Beaker phase\' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III. It was placed in front of the head in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:35	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:37:35	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&prevID=90&oprevID=25','',' Roundway G8 Archer's Bracer Stone archer's bracer found by the left wrist of the burial.  People in Beaker burials are often buried with archery equipment in the grave.','Wiltshire Museum : GalleriesRoundway G8 Archer's Bracer','','','','','../uploads/images/75/l_4archers_bracer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Archer\'s Bracer Stone archer\'s bracer found by the left wrist of the burial. People in Beaker burials are often buried with archery equipment in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:37:35	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Bracer Stone archer's bracer found by the left wrist of the burial.  People in' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <61>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:26:05	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&
+2015.02.02 00:29:02	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=143&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=143&
+2015.02.02 00:29:07	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=205&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=205&
+2015.02.02 00:29:10	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=121&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=121&
+2015.02.02 00:29:10	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&
+2015.02.02 00:29:10	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=119&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=119&
+2015.02.02 00:29:10	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=116&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=116&
+2015.02.02 00:29:11	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=117&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=117&
+2015.02.02 00:29:11	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=293&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=293&
+2015.02.02 00:29:12	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=120&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=120&
+2015.02.02 00:29:24	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=73&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=73&
+2015.02.02 00:29:35	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=160&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=160&
+2015.02.02 00:29:35	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=170&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=170&
+2015.02.02 00:29:36	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=162&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=162&
+2015.02.02 00:29:36	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=163&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=163&
+2015.02.02 00:29:39	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&
+2015.02.02 00:29:40	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=164&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=164&
+2015.02.02 00:29:40	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&
+2015.02.02 00:29:41	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=166&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=166&
+2015.02.02 00:29:41	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=167&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=167&
+2015.02.02 00:29:42	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=168&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=168&
+2015.02.02 00:29:42	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=171&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=171&
+2015.02.02 00:29:43	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=161&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=161&
+2015.02.02 00:29:44	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=175&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=175&
+2015.02.02 00:29:44	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=178&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=178&
+2015.02.02 00:29:45	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=172&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=172&
+2015.02.02 00:29:45	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=187&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=187&
+2015.02.02 00:29:46	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=185&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=185&
+2015.02.02 00:29:47	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=182&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=182&
+2015.02.02 00:29:47	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=176&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=176&
+2015.02.02 00:29:48	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=173&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=173&
+2015.02.02 00:29:48	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=174&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=174&
+2015.02.02 00:29:49	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=180&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=180&
+2015.02.02 00:29:49	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&
+2015.02.02 00:29:50	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=183&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=183&
+2015.02.02 00:29:50	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=188&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=188&
+2015.02.02 00:29:51	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=177&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=177&
+2015.02.02 00:29:52	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=211&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=211&
+2015.02.02 00:29:52	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=193&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=193&
+2015.02.02 00:29:53	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=194&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=194&
+2015.02.02 00:29:53	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=191&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=191&
+2015.02.02 00:29:54	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=201&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=201&
+2015.02.02 00:29:54	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=212&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=212&
+2015.02.02 00:29:55	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=207&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=207&
+2015.02.02 00:29:57	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=203&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=203&
+2015.02.02 00:29:57	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=216&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=216&
+2015.02.02 00:29:58	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=192&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=192&
+2015.02.02 00:29:59	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=189&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=189&
+2015.02.02 00:29:59	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=190&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=190&
+2015.02.02 00:30:00	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=204&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=204&
+2015.02.02 00:30:01	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=209&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=209&
+2015.02.02 00:30:01	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=198&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=198&
+2015.02.02 00:30:02	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=210&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=210&
+2015.02.02 00:30:03	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=195&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=195&
+2015.02.02 00:30:04	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=196&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=196&
+2015.02.02 00:30:04	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=199&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=199&
+2015.02.02 00:30:05	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=213&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=213&
+2015.02.02 00:30:05	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=200&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=200&
+2015.02.02 00:30:07	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=214&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=214&
+2015.02.02 00:30:08	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=215&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=215&
+2015.02.02 00:30:09	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=202&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=202&
+2015.02.02 00:30:09	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=197&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=197&
+2015.02.02 00:30:10	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=220&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=220&
+2015.02.02 00:30:11	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=232&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=232&
+2015.02.02 00:30:12	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=219&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=219&
+2015.02.02 00:30:12	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=234&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=234&
+2015.02.02 00:30:13	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=227&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=227&
+2015.02.02 00:30:14	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=229&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=229&
+2015.02.02 00:30:15	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=231&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=231&
+2015.02.02 00:30:15	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=230&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=230&
+2015.02.02 00:30:16	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=217&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=217&
+2015.02.02 00:30:16	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=218&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=218&
+2015.02.02 00:30:17	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=221&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=221&
+2015.02.02 00:30:18	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=233&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=233&
+2015.02.02 00:30:19	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=132&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=132&
+2015.02.02 00:30:20	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&
+2015.02.02 00:30:21	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=223&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=223&
+2015.02.02 00:30:21	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=222&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=222&
+2015.02.02 00:30:27	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&
+2015.02.02 00:30:27	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&
+2015.02.02 00:30:29	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&
+2015.02.02 00:30:30	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&
+2015.02.02 00:30:30	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&
+2015.02.02 00:30:31	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&
+2015.02.02 00:30:32	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&
+2015.02.02 00:30:33	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&
+2015.02.02 00:30:36	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&
+2015.02.02 00:30:37	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&
+2015.02.02 00:30:38	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&
+2015.02.02 00:30:39	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&
+2015.02.02 00:30:41	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=84&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=84&
+2015.02.02 00:30:42	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=83&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=83&
+2015.02.02 00:30:43	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&prevID=111&oprevID=22 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&
+2015.02.02 00:30:44	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&prevID=111&oprevID=22 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&
+2015.02.02 00:30:56	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=77&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=77&
+2015.02.02 00:30:57	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&
+2015.02.02 00:30:58	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&
+2015.02.02 00:30:59	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&
+2015.02.02 00:31:00	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=81&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=81&
+2015.02.02 00:31:01	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&
+2015.02.02 00:31:02	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&
+2015.02.02 00:31:03	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&
+2015.02.02 00:31:04	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&
+2015.02.02 00:31:05	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&
+2015.02.02 00:31:06	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&
+2015.02.02 00:32:06	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=246&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=246&
+2015.02.02 00:32:06	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=142&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=142&
+2015.02.02 00:32:08	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=139&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=139&
+2015.02.02 00:32:09	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=141&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=141&
+2015.02.02 00:32:10	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=140&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=140&
+2015.02.02 00:32:11	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=144&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=144&
+2015.02.02 00:32:12	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=253&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=253&
+2015.02.02 00:32:15	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=258&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=258&
+2015.02.02 00:32:15	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=133&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=133&
+2015.02.02 00:32:17	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=206&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=206&
+2015.02.02 00:32:21	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=256&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=256&
+2015.02.02 00:32:22	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=136&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=136&
+2015.02.02 00:32:38	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&
+2015.02.02 00:32:38	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&
+2015.02.02 00:32:39	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=74&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=74&
+2015.02.02 00:41:17	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&prevID=80&oprevID=25','',' Broken silver coin of Harun Broken silver coin  a 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD.  Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Mon','Wiltshire Museum : GalleriesBroken silver coin of Harun','','','','','../uploads/images/115/l_1haroun.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Broken silver coin of Harun Broken silver coin Â a \'dirhem\' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Monkton Deverill, Wiltshire. They were often broken to make more manageable coins. Harun Rashid features in the epic story, the Thousand and One Nights, which includes stories of Sinbad, Ali Baba and the Forty Thieves and Aladdin. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:41:17	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:41:20	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&prevID=87&oprevID=25','',' Pen-annular brooch Late Iron Age pen-annular (means 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of brooch originated in the Iron Age and continues in use today. 
+ 
+','Wiltshire Museum : GalleriesPen-annular brooch','','','','','../uploads/images/186/l_17iron_age_penannular_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Pen-annular brooch Late Iron Age pen-annular (means \'nearly a ring\')brooch with coiled terminals found at Marlborough. This style of brooch originated in the Iron Age and continues in use today. \r\n \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:41:20	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:41:27	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&prevID=94&oprevID=25','',' Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch','','','','','../uploads/images/254/l_66square_headed_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the \'Dark Ages\' after Roman rule had collapsed and the Saxons were becoming established. It might have been worn as a cloak-clasp or just as a piece of jewellery. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:41:27	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch',''' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:41:28	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=89&prevID=96&oprevID=17','',' Britton 'Celtic' Cabinet The first object to be acquired for the museums collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine 'Celtic' cabinet veneere','Wiltshire Museum : GalleriesBritton 'Celtic' Cabinet','','','','','../uploads/images/89/l_2britton_cabinet.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton \'Celtic\' Cabinet The first object to be acquired for the museumÂs collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine \'Celtic\' cabinet veneered in elm and maple. Eleven of its panels are glass fronted to display watercolour drawings, ten of which survive today. All the watercolours are of megalithic monuments in Wiltshire, Wales and the West of England. Most are related to pencil drawings by Underwood, Prout, Hyett and Cattermole. Integral to the design of the cabinet are three models of Stonehenge and Avebury made by Henry Browne. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:41:28	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Celtic' Cabinet The first object to be acquired for the museums collection was' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:42:57	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=104&prevID=78&oprevID=12','',' Britton's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a window in St Michael's Gallery, Fonthill House, from John Britton's notes, prints and sketches of the house 1823.','Wiltshire Museum : GalleriesBritton's engraving of St Michael's Gallery, Fonthill House','','','','','../uploads/images/104/l_1britton_fonthill.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton\'s engraving of St Michael\'s Gallery, Fonthill House Coloured engraving of a window in St Michael\'s Gallery, Fonthill House, from John Britton\'s notes, prints and sketches of the house 1823. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:42:57	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a wind' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:42:57	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=105&prevID=78&oprevID=12','',' Jackson's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson.','Wiltshire Museum : GalleriesJackson's watercolour of the Hungerford Chapel','','','','','../uploads/images/105/l_2jackson_church_interior.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Jackson\'s watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:42:57	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at F' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:42:58	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=114&prevID=78&oprevID=12','',' Trotter Painting of Bishop Audley's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century.','Wiltshire Museum : GalleriesTrotter Painting of Bishop Audley's Chapel','','','','','../uploads/images/114/l_11trotter.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Trotter Painting of Bishop Audley\'s Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:42:58	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas T' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:43:01	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=289&prevID=112&oprevID=23','',' Devizes ARP Wardens. Devizes ARP Wardens.  
+Top row, 5th from the left is Edward Harper, Ambulance Driver. 
+ 
+The Museum has been given his uniform, displayed in the 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : GalleriesDevizes ARP Wardens.','','','','','../uploads/images/289/l_ARP warden uniform2.jpg','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Devizes ARP Wardens. Devizes ARP Wardens. \r\nTop row, 5th from the left is Edward Harper, Ambulance Driver. \r\n \r\nThe Museum has been given his uniform, displayed in the \'On the Home Front: Wiltshire in WW2\' exhibition. \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:43:01	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : Galleri' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:43:02	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&prevID=114&oprevID=24','',' Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding's favourite object in the museum, and he explains how he has made a replica. 
+ 
+</embed>','Wiltshire Museum : GalleriesStonehenge Dagger video','','','','','../uploads/images/287/l_s-spacer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding\'s favourite object in the museum, and he explains how he has made a replica. \r\n \r\n</embed> &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:43:02	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's favourite object in the museum, and he explains how he has made a replica. 
+ ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:43:03	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&prevID=90&oprevID=25','',' Roundway G8 Flint Arrowhead Early Bronze Age 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III.  It was placed in front of the head in the grave.','Wiltshire Museum : GalleriesRoundway G8 Flint Arrowhead','','','','','../uploads/images/72/l_1roundwayG8_arrowhead.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Flint Arrowhead Early Bronze Age \'Beaker phase\' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III. It was placed in front of the head in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:43:03	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.02 00:43:03	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&prevID=90&oprevID=25','',' Roundway G8 Archer's Bracer Stone archer's bracer found by the left wrist of the burial.  People in Beaker burials are often buried with archery equipment in the grave.','Wiltshire Museum : GalleriesRoundway G8 Archer's Bracer','','','','','../uploads/images/75/l_4archers_bracer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Archer\'s Bracer Stone archer\'s bracer found by the left wrist of the burial. People in Beaker burials are often buried with archery equipment in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.02 00:43:03	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Bracer Stone archer's bracer found by the left wrist of the burial.  People in' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 22:58:02	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&prevID=80&oprevID=25','',' Broken silver coin of Harun Broken silver coin Â? a 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD.  Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Mo','Wiltshire Museum : GalleriesBroken silver coin of Harun','','','','','../uploads/images/115/l_1haroun.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Broken silver coin of Harun Broken silver coin Ã? a \'dirhem\' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. Arabic dirhems are common in Scandinavia and were brought to England by the Vikings, and this coin was found at Monkton Deverill, Wiltshire. They were often broken to make more manageable coins. Harun Rashid features in the epic story, the Thousand and One Nights, which includes stories of Sinbad, Ali Baba and the Forty Thieves and Aladdin. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 22:58:02	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dirhem' struck by Harun ar Rashid, caliph of Baghdad at Rayy in Iran in 802 AD. ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 22:58:07	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&prevID=87&oprevID=25','',' Pen-annular brooch Late Iron Age pen-annular (means 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of brooch originated in the Iron Age and continues in use today. 
+ 
+','Wiltshire Museum : GalleriesPen-annular brooch','','','','','../uploads/images/186/l_17iron_age_penannular_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Pen-annular brooch Late Iron Age pen-annular (means \'nearly a ring\')brooch with coiled terminals found at Marlborough. This style of brooch originated in the Iron Age and continues in use today. \r\n \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 22:58:07	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nearly a ring')brooch with coiled terminals found at Marlborough.  This style of' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 22:58:14	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&prevID=94&oprevID=25','',' Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch','','','','','../uploads/images/254/l_66square_headed_brooch.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Saxon Large Square-headed Brooch This huge golden brooch was found in the grave of a particularly wealthy Saxon woman from the well known Black Patch cemetery in Pewsey. It dates from around 550 AD, right at the very beginnings of the \'Dark Ages\' after Roman rule had collapsed and the Saxons were becoming established. It might have been worn as a cloak-clasp or just as a piece of jewellery. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 22:58:14	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dark Ages' af','Wiltshire Museum : GalleriesSaxon Large Square-headed Brooch',''' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 22:58:15	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=89&prevID=96&oprevID=17','',' Britton 'Celtic' Cabinet The first object to be acquired for the museumÂ?s collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine 'Celtic' cabinet veneer','Wiltshire Museum : GalleriesBritton 'Celtic' Cabinet','','','','','../uploads/images/89/l_2britton_cabinet.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton \'Celtic\' Cabinet The first object to be acquired for the museumÃ?s collection was once owned by the famous antiquary and topographer John Britton. Built in the shape of a Stonehenge trilith, it is a mahogany and pine \'Celtic\' cabinet veneered in elm and maple. Eleven of its panels are glass fronted to display watercolour drawings, ten of which survive today. All the watercolours are of megalithic monuments in Wiltshire, Wales and the West of England. Most are related to pencil drawings by Underwood, Prout, Hyett and Cattermole. Integral to the design of the cabinet are three models of Stonehenge and Avebury made by Henry Browne. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 22:58:15	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Celtic' Cabinet The first object to be acquired for the museumÂ?s collection' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:20:48	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=104&prevID=78&oprevID=12','',' Britton's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a window in St Michael's Gallery, Fonthill House, from John Britton's notes, prints and sketches of the house 1823.','Wiltshire Museum : GalleriesBritton's engraving of St Michael's Gallery, Fonthill House','','','','','../uploads/images/104/l_1britton_fonthill.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Britton\'s engraving of St Michael\'s Gallery, Fonthill House Coloured engraving of a window in St Michael\'s Gallery, Fonthill House, from John Britton\'s notes, prints and sketches of the house 1823. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:20:48	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's engraving of St Michael's Gallery, Fonthill House Coloured engraving of a wind' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:20:48	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=105&prevID=78&oprevID=12','',' Jackson's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson.','Wiltshire Museum : GalleriesJackson's watercolour of the Hungerford Chapel','','','','','../uploads/images/105/l_2jackson_church_interior.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Jackson\'s watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at Farleigh Hungerford Castle, with armour (1878) by Canon J.E. Jackson. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:20:48	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's watercolour of the Hungerford Chapel Watercolour of the Hungerford Chapel at F' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:20:49	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=114&prevID=78&oprevID=12','',' Trotter Painting of Bishop Audley's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century.','Wiltshire Museum : GalleriesTrotter Painting of Bishop Audley's Chapel','','','','','../uploads/images/114/l_11trotter.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Trotter Painting of Bishop Audley\'s Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas Trotter, late eighteenth century. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:20:49	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Chapel The Chapel of Bishop Audley in Salisbury Cathedral, painted by Thomas T' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:20:53	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=289&prevID=112&oprevID=23','',' Devizes ARP Wardens. Devizes ARP Wardens.  
+Top row, 5th from the left is Edward Harper, Ambulance Driver. 
+ 
+The Museum has been given his uniform, displayed in the 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : GalleriesDevizes ARP Wardens.','','','','','../uploads/images/289/l_ARP warden uniform2.jpg','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Devizes ARP Wardens. Devizes ARP Wardens. \r\nTop row, 5th from the left is Edward Harper, Ambulance Driver. \r\n \r\nThe Museum has been given his uniform, displayed in the \'On the Home Front: Wiltshire in WW2\' exhibition. \r\n &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:20:53	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'On the Home Front: Wiltshire in WW2' exhibition. 
+','Wiltshire Museum : Galleri' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:20:54	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&prevID=114&oprevID=24','',' Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding's favourite object in the museum, and he explains how he has made a replica. 
+ 
+</embed>','Wiltshire Museum : GalleriesStonehenge Dagger video','','','','','../uploads/images/287/l_s-spacer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Stonehenge Dagger video Video about the Stonehenge Dagger. This is Phil Harding\'s favourite object in the museum, and he explains how he has made a replica. \r\n \r\n</embed> &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:20:54	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's favourite object in the museum, and he explains how he has made a replica. 
+ ' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:20:55	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&prevID=90&oprevID=25','',' Roundway G8 Flint Arrowhead Early Bronze Age 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III.  It was placed in front of the head in the grave.','Wiltshire Museum : GalleriesRoundway G8 Flint Arrowhead','','','','','../uploads/images/72/l_1roundwayG8_arrowhead.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Flint Arrowhead Early Bronze Age \'Beaker phase\' tanged and barbed flint arrowhead from the barrow know as Roundway G8 excavated in 1855 by William Cunnington III. It was placed in front of the head in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:20:55	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Beaker phase' tanged and barbed flint arrowhead from the barrow know as Roundway' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:20:55	INSERT INTO ftindex (url, dc_coverage, dc_description, dc_title, dc_subject, dc_type, dcterms_spatial, edm_type, edm_isShownAt, edm_isShownBy, edm_provider, edm_rights, collection_id, idxfld) VALUES ('http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&prevID=90&oprevID=25','',' Roundway G8 Archer's Bracer Stone archer's bracer found by the left wrist of the burial.  People in Beaker burials are often buried with archery equipment in the grave.','Wiltshire Museum : GalleriesRoundway G8 Archer's Bracer','','','','','../uploads/images/75/l_4archers_bracer.JPG','','','',1,' Wiltshire Museum : Galleries Home What We Do Museum Library Education What\'s On Shop Collections About Membership News Visiting Documents Links Roundway G8 Archer\'s Bracer Stone archer\'s bracer found by the left wrist of the burial. People in Beaker burials are often buried with archery equipment in the grave. &copy; Copyright Wiltshire Museum Send this as an E-card \r\n << Back < Previous&nbsp;&nbsp; Next > Follow @wiltshiremuseum Privacy Statement Sitemap \r\n Share &nbsp;&nbsp;&nbsp;&nbsp; Wiltshire Museum\r\n 41 Long Street, Devizes, Wiltshire, SN10 1NS\r\n Telephone: 01380 727369\r\n Email: hello@wiltshiremuseum.org.uk\r\n http://www.wiltshiremuseum.org.uk \r\n \r\n Wiltshire Archaeological and Natural History Society\r\n Company Limited by Guarantee Registered in England no. 3885649. Registered Charity No. 1080096 \r\n ');
+2015.02.01 23:20:55	You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Bracer Stone archer's bracer found by the left wrist of the burial.  People in' at line 1
+	...<C:\GitHub\Avinet.LoCloud.Crawler\lib\log.class.php> in function <write> on line: <38>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <isSuccess> on line: <166>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\db.class.php> in function <execute> on line: <101>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\ftindex.class.php> in function <insert> on line: <81>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\lib\indexer.class.php> in function <indexURLList> on line: <64>
+	Called By:
+<C:\GitHub\Avinet.LoCloud.Crawler\indexerTask.php> on line: <14>
+
+2015.02.01 23:27:09	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&
+2015.02.01 23:29:01	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=143&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=143&
+2015.02.01 23:29:10	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=205&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=205&
+2015.02.01 23:29:16	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=121&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=121&
+2015.02.01 23:29:18	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=115&
+2015.02.01 23:29:19	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=119&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=119&
+2015.02.01 23:29:20	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=116&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=116&
+2015.02.01 23:29:21	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=117&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=117&
+2015.02.01 23:29:22	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=293&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=293&
+2015.02.01 23:29:23	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=120&prevID=80&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=120&
+2015.02.01 23:29:52	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=73&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=73&
+2015.02.01 23:30:12	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=160&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=160&
+2015.02.01 23:30:13	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=170&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=170&
+2015.02.01 23:30:14	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=162&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=162&
+2015.02.01 23:30:15	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=163&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=163&
+2015.02.01 23:30:16	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&
+2015.02.01 23:30:17	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=164&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=164&
+2015.02.01 23:30:19	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&
+2015.02.01 23:30:20	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=166&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=166&
+2015.02.01 23:30:21	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=167&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=167&
+2015.02.01 23:30:22	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=168&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=168&
+2015.02.01 23:30:23	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=171&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=171&
+2015.02.01 23:30:24	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=161&prevID=86&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=161&
+2015.02.01 23:30:26	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=175&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=175&
+2015.02.01 23:30:27	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=178&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=178&
+2015.02.01 23:30:28	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=172&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=172&
+2015.02.01 23:30:29	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=187&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=187&
+2015.02.01 23:30:31	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=185&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=185&
+2015.02.01 23:30:32	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=182&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=182&
+2015.02.01 23:30:33	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=176&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=176&
+2015.02.01 23:30:34	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=173&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=173&
+2015.02.01 23:30:35	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=174&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=174&
+2015.02.01 23:30:36	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=180&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=180&
+2015.02.01 23:30:38	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=186&
+2015.02.01 23:30:39	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=183&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=183&
+2015.02.01 23:30:40	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=188&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=188&
+2015.02.01 23:30:41	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=177&prevID=87&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=177&
+2015.02.01 23:30:42	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=211&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=211&
+2015.02.01 23:30:43	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=193&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=193&
+2015.02.01 23:30:44	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=194&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=194&
+2015.02.01 23:30:46	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=191&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=191&
+2015.02.01 23:30:47	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=201&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=201&
+2015.02.01 23:30:48	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=212&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=212&
+2015.02.01 23:30:49	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=207&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=207&
+2015.02.01 23:30:50	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=203&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=203&
+2015.02.01 23:30:51	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=216&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=216&
+2015.02.01 23:30:52	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=192&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=192&
+2015.02.01 23:30:53	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=189&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=189&
+2015.02.01 23:30:55	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=190&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=190&
+2015.02.01 23:30:56	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=204&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=204&
+2015.02.01 23:30:57	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=209&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=209&
+2015.02.01 23:30:58	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=198&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=198&
+2015.02.01 23:30:59	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=210&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=210&
+2015.02.01 23:31:01	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=195&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=195&
+2015.02.01 23:31:02	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=196&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=196&
+2015.02.01 23:31:03	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=199&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=199&
+2015.02.01 23:31:04	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=213&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=213&
+2015.02.01 23:31:05	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=200&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=200&
+2015.02.01 23:31:06	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=214&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=214&
+2015.02.01 23:31:07	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=215&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=215&
+2015.02.01 23:31:12	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=202&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=202&
+2015.02.01 23:31:13	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=197&prevID=88&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=197&
+2015.02.01 23:31:14	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=220&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=220&
+2015.02.01 23:31:15	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=232&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=232&
+2015.02.01 23:31:17	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=219&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=219&
+2015.02.01 23:31:19	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=234&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=234&
+2015.02.01 23:31:20	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=227&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=227&
+2015.02.01 23:31:21	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=229&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=229&
+2015.02.01 23:31:22	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=231&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=231&
+2015.02.01 23:31:23	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=230&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=230&
+2015.02.01 23:31:24	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=217&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=217&
+2015.02.01 23:31:25	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=218&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=218&
+2015.02.01 23:31:26	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=221&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=221&
+2015.02.01 23:31:27	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=233&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=233&
+2015.02.01 23:31:28	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=132&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=132&
+2015.02.01 23:31:30	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=254&
+2015.02.01 23:31:31	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=223&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=223&
+2015.02.01 23:31:32	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=222&prevID=94&oprevID=13 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=222&
+2015.02.01 23:31:39	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&
+2015.02.01 23:31:41	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&
+2015.02.01 23:31:42	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&
+2015.02.01 23:31:43	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=80&
+2015.02.01 23:31:44	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&
+2015.02.01 23:31:45	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&
+2015.02.01 23:31:46	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&
+2015.02.01 23:31:47	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&
+2015.02.01 23:31:48	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&
+2015.02.01 23:31:50	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=165&
+2015.02.01 23:31:51	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=169&
+2015.02.01 23:31:52	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&
+2015.02.01 23:31:56	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=84&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=84&
+2015.02.01 23:31:57	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=83&prevID=114&oprevID=24 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=83&
+2015.02.01 23:31:58	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&prevID=111&oprevID=22 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&
+2015.02.01 23:32:01	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&prevID=111&oprevID=22 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=287&
+2015.02.01 23:32:22	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=77&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=77&
+2015.02.01 23:32:23	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=247&
+2015.02.01 23:32:25	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=79&
+2015.02.01 23:32:28	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=78&
+2015.02.01 23:32:30	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=81&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=81&
+2015.02.01 23:32:32	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=124&
+2015.02.01 23:32:34	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=125&
+2015.02.01 23:32:36	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=126&
+2015.02.01 23:32:38	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=127&
+2015.02.01 23:32:40	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=128&
+2015.02.01 23:32:42	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&prevID=89&oprevID=25 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=286&
+2015.02.01 23:34:45	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=246&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=246&
+2015.02.01 23:34:46	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=142&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=142&
+2015.02.01 23:34:48	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=139&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=139&
+2015.02.01 23:34:50	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=141&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=141&
+2015.02.01 23:34:52	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=140&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=140&
+2015.02.01 23:34:54	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=144&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=144&
+2015.02.01 23:34:56	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=253&prevID=100&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=253&
+2015.02.01 23:35:00	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=258&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=258&
+2015.02.01 23:35:01	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=133&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=133&
+2015.02.01 23:35:03	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=206&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=206&
+2015.02.01 23:35:05	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=256&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=256&
+2015.02.01 23:35:07	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=136&prevID=101&oprevID=9 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=136&
+2015.02.01 23:35:42	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=72&
+2015.02.01 23:35:43	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=75&
+2015.02.01 23:35:45	http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=74&prevID=90&oprevID=12 is already in the cache as http://www.wiltshiremuseum.org.uk/galleries/index.php?Action=4&obID=74&
