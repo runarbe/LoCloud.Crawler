@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20.jan.2015, 21:38:02
+    Author     : runarbe
+*/
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+div.addmargins  {
+    padding: 20px;
+}
+
+.blackongray, .blackongray div, .blackongray a, .blackongray li, .blackongray ul {
+/*    background-color: #f0f0f0 !important;
+    color: #000000 !important;*/
+
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+.blackongray a:hover {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+.footerText {
+    font-size: 0.75em;
+    text-transform: uppercase;
+    font-family: Arial;
+}
+
+.fullHeight {
+    height: 100%;
+}
+
+ol.searchResult {
+    
+}
+
+ol.searchResult li {
+    clear: both;
+    margin-bottom: 1em;
+}
+
+ol.searchResult li a {
+    font-size: inherit;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+ol.searchResult li a h3 {
+    font-size: inherit;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+ol.searchResult li img {
+    float: right;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    width: 100px;
+}
+
+p.infoMessage {
+    font-size: 1.1em;
+    color: #ff0000;
+}
