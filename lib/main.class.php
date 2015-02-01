@@ -45,7 +45,7 @@ class indexClass {
         $xml .= "</object>\n";
         return $xml;
     }
-
+    
     public function asJSON() {
         $json = json_encode($this);
         return $json;
@@ -95,5 +95,3 @@ class dcmiPoint {
     }
 
 }
-?>
-
